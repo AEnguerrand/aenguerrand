@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Enguerrand</h1>
-I am a **Staff Cloud Security Engineer at [@LedgerHQ](https://github.com/LedgerHQ)**.
+I am a **Staff Cloud Security Engineer [@LedgerHQ](https://github.com/LedgerHQ)**.
 
 ## Focus
 - Security advisor to infra/engineering teams on secure architecture and DevSecOps
