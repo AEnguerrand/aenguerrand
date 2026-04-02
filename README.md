@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Enguerrand</h1>
-I am a **Senior Platform Security Engineer [@procurify](https://github.com/procurify)**.
+I am a **Senior Platform Security Engineer [@Procurify](https://github.com/procurify)**.
 
 ## Focus
 - Building and automating security guardrails within CI/CD pipelines and cloud infrastructure
