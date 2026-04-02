@@ -1,11 +1,13 @@
 ## Hi 👋, I'm Enguerrand</h1>
-I am a **Staff Cloud Security Engineer [@LedgerHQ](https://github.com/LedgerHQ)**.
+I am a **Senior Security Engineer [@procurify](https://github.com/procurify)**.
 
 ## Focus
-- Security advisor to infra/engineering teams on secure architecture and DevSecOps
-- Supply chain security with SLSA, Sigstore, GitHub Actions, and JFrog
-- Wiz deployment across cloud and on‑prem for detection and posture visibility
-- AWS cloud security improvements from design to implementation
+- Building and automating security guardrails within CI/CD pipelines and cloud infrastructure
+- Evolving security tools and strategy for AI-first development workflows
+- Threat detection & response: SIEM, incident response, and security incident reviews
+- Application & cloud security consulting: architecture reviews, threat modeling, Kubernetes on AWS
+- Compliance & governance automation (SOC 2, PCI DSS, GDPR)
+- Security awareness and DevSecOps on-call
 
 ## Links
 - 🌍 Website: https://enguerrand.dev
